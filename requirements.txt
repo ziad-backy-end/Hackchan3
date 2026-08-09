@@ -1,4 +1,4 @@
 uvicorn
 fastapi
 pydantic
-sqlite3
+python-multipart
